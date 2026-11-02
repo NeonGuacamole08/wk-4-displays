@@ -1,0 +1,6 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
+"C1","1","C","","","","","${EXCLUDE_FROM_POS_FILES}","Capacitor_SMD:C_0805_2012Metric",""
+"J1","1","Conn_01x05","","","","","${EXCLUDE_FROM_POS_FILES}","Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical",""
+"SW1,SW2,SW3","3","SW_Push","","","","","${EXCLUDE_FROM_POS_FILES}","Button_Switch_THT:SW_PUSH_6mm",""
+"SW4","1","RotaryEncoder_Switch_MP","","","","","${EXCLUDE_FROM_POS_FILES}","Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm",""
+"U1","1","XIAO-ESP32-C3-SMD","","","","","${EXCLUDE_FROM_POS_FILES}","Display:XIAO-ESP32-C3-SMD",""
